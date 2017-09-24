@@ -2,10 +2,10 @@
 
 手写各种机器学习代码
 
-[ ] logistic regression
+- [ ] logistic regression
 
-[ ] SVM
+- [ ] SVM
 
-[ ] Naive Bayesian
+- [ ] Naive Bayesian
 
-[ ] BPNN
+- [ ] BPNN
